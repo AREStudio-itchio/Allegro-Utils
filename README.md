@@ -1,4 +1,4 @@
-# Allegro-Utilies
+# Allegro-Utils
 This library written in C allows you get aspect ratio and letterboxing in Allegro natively.
 
 # License
